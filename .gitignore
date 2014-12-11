@@ -9,3 +9,6 @@
 .Rproj.user
 *.Rproj
 RepData_PeerAssessment1/
+mydeck/.nojekyll
+mydeck/libraries/
+mydeck/assets/
